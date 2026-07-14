@@ -1,0 +1,7 @@
+path: E:\github\yolo-rubiks-cube-detection\data
+
+train: images\train
+val: images\val
+
+names:
+  0: cube
